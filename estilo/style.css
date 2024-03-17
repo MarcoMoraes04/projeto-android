@@ -80,7 +80,7 @@ main aside{margin-top:10px}
 
 div.video{background-color:var(--cor3);text-align:center;padding-top:15px;padding-bottom: 15px;border-radius:5px 5px 5px 5px;
   margin:-1px; 
-  min-width: ;
+  min-width:130px ;max-width:560px;
 }
   
 
