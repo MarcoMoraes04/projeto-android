@@ -78,8 +78,9 @@ main aside{margin-top:10px}
     text-indent: 5px;
 }
 
-div.video{background-color:var(--cor3);text-align:center;padding-top:15px;padding-bottom: 15px;border-radius:5px 5px 5px 5px
-  }
+div.video{background-color:var(--cor3);text-align:center;padding-top:15px;padding-bottom: 15px;border-radius:5px 5px 5px 5px;
+  margin:-1px; 
+border: 5px;color:darkslategray;border-style: solid ; }
   
 
 main .video{margin-top:-10px}
